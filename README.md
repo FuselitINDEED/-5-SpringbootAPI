@@ -5,16 +5,16 @@
 
 
 3. API Documentation:
-  // Fetches data from JSON.
-  GET http://localhost:8080/api/tasks
+   // Fetches data from JSON.
+   GET http://localhost:8080/api/tasks
 
-  // Creates a new task.
-  POST http://localhost:8080/api/tasks
-    Header: Content-Type: application/json
+   // Creates a new task.
+   POST http://localhost:8080/api/tasks
+     Header: Content-Type: application/json
 
-  // Updates data from JSON.
-  PUT http://localhost:8080/api/tasks
-    Header: Content-Type: application/json
+   // Updates data from JSON.
+   PUT http://localhost:8080/api/tasks
+     Header: Content-Type: application/json
 
-  // Deletes a task.
-  DELETE http://localhost:8080/api/tasks
+   // Deletes a task.
+   DELETE http://localhost:8080/api/tasks
